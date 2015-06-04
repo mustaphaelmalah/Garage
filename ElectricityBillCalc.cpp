@@ -4,7 +4,7 @@
 using namespace std;
 
 // Price grades
-// Price-Upper limit
+// {Price, Upper limit}
 int GRADES[6][2] = 
 {
 	{0, 5},
