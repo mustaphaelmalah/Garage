@@ -6,6 +6,6 @@
 // @author       Mustapha Elmalah
 // @match        https://www.theubeg.com:4343/*
 // @grant        none
-// @downloadURL  https://gist.github.com/mustaphaelmalah/80af0a6507d78b03b26e/raw/ub-pwd.user.js
-// @updateURL    https://gist.github.com/mustaphaelmalah/80af0a6507d78b03b26e/raw/ub-pwd.meta.js
+// @downloadURL  https://gist.github.com/mustaphaelmalah/58c9b7035af944f2ba5e/raw/ub-pwd.user.js
+// @updateURL    https://gist.github.com/mustaphaelmalah/58c9b7035af944f2ba5e/raw/ub-pwd.meta.js
 // ==/UserScript==
