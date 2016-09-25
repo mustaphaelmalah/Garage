@@ -9,5 +9,5 @@
 // @downloadURL  https://gist.github.com/mustaphaelmalah/58c9b7035af944f2ba5e/raw/ub-pwd.user.js
 // @updateURL    https://gist.github.com/mustaphaelmalah/58c9b7035af944f2ba5e/raw/ub-pwd.meta.js
 // ==/UserScript==
- 
+
 document.getElementById("testb").readOnly = false;
