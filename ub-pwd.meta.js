@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         UB password edit
-// @namespace    https://mustafaelmalah.github.io
+// @namespace    https://mustaphaelmalah.github.io
 // @version      0.1
 // @description  
-// @author       Mustafa Elmalah
+// @author       Mustapha Elmalah
 // @match        https://www.theubeg.com:4343/*
 // @include      https://www.theubeg.com:4343/*
 // @grant        none
