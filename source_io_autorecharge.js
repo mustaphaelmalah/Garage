@@ -4,7 +4,8 @@
  *
  * Author: Mustapha Elmalah
  *
- * Fix (for devs): suggest randomizing/obfuscating element ids at small interval.
+ * Fix (for devs): suggest randomizing/obfuscating element ids at small interval
+ * or better yet using a canvas element.
  *
  */
 var recharge_timeout = null;
