@@ -9,7 +9,7 @@
  *
  */
 var recharge_timeout = null;
-function recharge() {
+(function recharge() {
 	if(recharge_timeout) clearTimeout(recharge_timeout);
 	recharge_timeout = setTimeout(function() {
 		// rechange firewall A
@@ -30,6 +30,4 @@ function recharge() {
 		// run next cycle
 		recharge();
 	}, 1000);
-}
-
-recharge();
+})();
