@@ -4,6 +4,8 @@
  *
  * Author: Mustapha Elmalah
  *
+ * Fix (for devs): suggest randomizing/obfuscating element ids at small interval.
+ *
  */
 var recharge_timeout = null;
 function recharge() {
