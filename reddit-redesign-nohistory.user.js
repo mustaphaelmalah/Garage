@@ -11,4 +11,5 @@
 // @updateURL    https://gist.github.com/mustaphaelmalah/58c9b7035af944f2ba5e/raw/reddit-redesign-nohistory.meta.js
 // ==/UserScript==
 
-history.pushState = function() { }
+history.pushState = function() {}
+history.replaceState = function() {}
